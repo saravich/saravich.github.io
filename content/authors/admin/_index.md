@@ -143,7 +143,7 @@ profiles:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-# ---
+---
 
 
 For the past five years, I’ve been exploring the fascinating space where perception meets robotics. I’ve built systems that help robots balance, walk, fly, and carry out pick-and-place tasks. I’ve also worked on helping robots see the world through 2D or 3D vision and make decisions on their own based on what they see.
