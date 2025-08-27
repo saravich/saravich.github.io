@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: e7f7a4dd-a2fc-4acf-b75f-a02b49bf15f0.jpeg
+        filename: 29575078_7560451.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'

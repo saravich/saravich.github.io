@@ -6,7 +6,9 @@
   "description": "",
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "build": "hugo --minify"
+    "build": "npm run build:css && hugo --minify",
+    "build:css": "tailwindcss -i ./assets/css/input.css -o ./assets/css/main.css --watch=false",
+    "watch:css": "tailwindcss -i ./assets/css/input.css -o ./assets/css/main.css --watch"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.12",
