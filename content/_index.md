@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-08-27
 type: landing
 
 design:
@@ -21,14 +21,14 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: e7f7a4dd-a2fc-4acf-b75f-a02b49bf15f0.jpeg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
       # Avatar customization 
-      avatar:
-        size: large     # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded  # Options: circle (default), square, rounded
+      # avatar:
+      #   size: large     # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+      #   shape: rounded  # Options: circle (default), square, rounded
   - block: experience
     content:
       username: admin
