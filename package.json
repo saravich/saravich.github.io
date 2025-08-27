@@ -1,9 +1,9 @@
 {
-  "name": "Sara Hatami",
+  "name": "hugo-blox-resume-starter",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.14.0",
-  "description": "",
+  "description": "Resume starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
     "dev": "hugo server --disableFastRender",
     "build": "npm run build:css && hugo --minify",
