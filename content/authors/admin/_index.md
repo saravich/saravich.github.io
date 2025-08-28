@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Vicion and Robotics Software Developer
+role: Computer Vision and Robotics Software Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
