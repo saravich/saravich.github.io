@@ -16,6 +16,7 @@ marketing:
     org_name: ''
     description: 'Sara Hatami, Computer Vision & Robotics Software Developer'
     twitter: 'GetResearchDev'
+    favicon: '/favicon.svg'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

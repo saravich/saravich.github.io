@@ -1,0 +1,15 @@
+{
+  "name": "Sara Hatami - Portfolio",
+  "short_name": "Sara Hatami",
+  "description": "Computer Vision & Robotics Software Developer",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#8B4513",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
